@@ -1,10 +1,11 @@
 # Chromebook Utilities Collection
 ### A collection of exploits and tools for managed/enrolled Chromebooks.
-### Read the [Disclaimer](https://github.com/S-PScripts/chromebook-utilities/blob/main/Important/DISCLAIMER.md) before viewing this collection further.
 ---
 ### Important Update:
-- This collection will no longer be updated (often) due to my lack of interest in it.
-- You can join Titanium Network for more links and exploits (.gg/unblock).
+- This collection will be updated by 2pro12342 (me) to continue the journey of chrome os exploits from KV1 to hopefully past KV8
 ---
 ### If you like this collection, make sure to star it!
 ### Created by S-PScripts
+
+### Updated by 2pro12342 
+will be adding exploits from TN, user requested exploits/bypasses, CrosBreaker's Discord, TN Docs, Mercury Workshop, Wagonization, BOLT Studios, and other Discord servers that has the exploits/bypasses/unblocks channel in their server. 
