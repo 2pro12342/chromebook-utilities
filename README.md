@@ -3,7 +3,7 @@
 ---
 ### Important Update:
 - This collection will be updated by 2pro12342 (me) to continue the journey of chrome os exploits from KV1 to hopefully past KV8.
-- I () will not be creating a new site for these, it will just be a Repo/Megapack Bypass. 
+- I (2pro12342) will not be creating a new site for these, it will just be a Repo/Megapack Bypass. 
 ---
 ### If you like this collection, make sure to star it!
 ### Created by S-PScripts
